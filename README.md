@@ -77,7 +77,7 @@ The dataset includes multiple tables such as:
 **3. Procedures & Clinical Insights**
 
   - Most frequent procedures: health/social care assessments, hospice, depression screening
-  - Highest-cost procedures: ICU admission (~$206K), cardiac surgeries ($20–47K), colon resections (~$25K)
+  - Highest-cost procedures: ICU admission (~206K), cardiac surgeries (20–47K), colon resections (~25K)
 
 **4. Patient Demographics**
 
