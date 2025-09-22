@@ -101,7 +101,7 @@ The dataset includes multiple tables such as:
 **3. Procedures & Costs**
 
   - High-volume procedures: screenings, hospice care, depression & substance assessments.
-  - High-cost procedures: ICU admission (~$206K), cardiac surgeries ($20–47K), colon resections (~$25K).
+  - High-cost procedures: ICU admission (~206K), cardiac surgeries (20–47K), colon resections (~25K).
   - Insight: Hospital runs on low-cost, high-volume preventive care, but faces spikes from rare, high-cost admissions.
 
 **4. Patient Demographics**
