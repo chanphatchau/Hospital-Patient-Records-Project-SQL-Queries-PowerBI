@@ -84,7 +84,7 @@ The dataset includes multiple tables such as:
   - Age distribution: majority 66+ (18K+ encounters), followed by 51–65
   - Gender split: balanced male/female, similar avg claim costs
 
-# 📊 Key Insights
+## 📊 Key Insights
 
 **1. Admissions & Readmissions**
   
@@ -110,7 +110,7 @@ The dataset includes multiple tables such as:
   - 51–65 years is the second-largest group (~3.7K encounters).
   - Gender split is balanced, with little cost difference between male & female patients.
 
-# 🛠️ Recommended Actions
+## 🛠️ Recommended Actions
 
 - Reduce readmissions: Target repeat patients with better discharge planning.
 - Manage uninsured burden: Explore insurance expansion, subsidies, or payment assistance.
