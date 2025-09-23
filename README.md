@@ -57,6 +57,7 @@ The dataset includes multiple tables such as:
   - Cost per Visit Long-Term Trend
 
 ![Cost & Insurance](assets/dashboard-2.png)
+
 ---
 
 ## 🔍 SQL Analysis
@@ -88,29 +89,37 @@ The dataset includes multiple tables such as:
 **1. Admissions & Readmissions**
   
   - Total encounters range between 2,200–3,500 per year, showing stable demand.
+    
 ![Admissions & Readmissions 1](assets/admissions-and-readmissions-1.png)
 
   - Ambulatory & outpatient visits dominate (~70%), while inpatient stays are fewer but costlier.
+    
 ![Admissions & Readmissions 2](assets/admissions-and-readmissions-2.png)
 
   - Readmissions within 30 days occur consistently, indicating opportunities for post-discharge improvement.
+    
  ![Admissions & Readmissions 3](assets/admissions-and-readmissions-3.png)
 
 **2. Insurance Coverage**
 
   - Nearly half of encounters (≈48.7%) had no payer coverage, posing significant financial risk.
+    
 ![Insurance Coverage 1](assets/insurance-coverage-1.png)
 
   - 2012–2015: uninsured cases exceeded 50%.
   - 2020–2022: uninsured burden declined to ~40%, showing gradual improvement.
+    
 ![Insurance Coverage 2](assets/insurance-coverage-2.png)
+
 
 **3. Procedures & Costs**
 
   - High-volume procedures: screenings, hospice care, depression & substance assessments.
+    
 ![Procedures & Costs 1](assets/procedures-and-costs-1.png)
 
   - High-cost procedures: ICU admission (~206K), cardiac surgeries (20–47K), colon resections (~25K).
+    
 ![Procedures & Costs 2](assets/procedures-and-costs-2.png)
 
   - Insight: Hospital runs on low-cost, high-volume preventive care, but faces spikes from rare, high-cost admissions.
@@ -119,9 +128,11 @@ The dataset includes multiple tables such as:
 
   - Majority of encounters from elderly patients (66+ years = 18K+).
   - 51–65 years is the second-largest group (~3.7K encounters).
+    
 ![Patient Demographics 1](assets/patient-demographics-1.png)
 
   - Gender split is balanced, with little cost difference between male & female patients.
+    
 ![Patient Demographics 2](assets/patient-demographics-2.png)
 
 ## 🛠️ Recommended Actions
