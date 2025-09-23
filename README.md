@@ -4,28 +4,23 @@ This project analyses hospital patient records using SQL Server and Power BI. It
 The project is split into two parts:
 
 - Real-time trends in Power BI – for interactive monitoring and KPI tracking.
-
 - Deep cleaning & analysis in SQL Server – for structured exploration of encounter data, patient demographics, procedures, and coverage gaps.
 
 ---
 
 ## 🎯 Project Objective
 
-Clean and query hospital records using SQL Server to answer key operational and clinical questions.
-
-Visualise real-time KPIs and long-term healthcare trends in Power BI.
+- Clean and query hospital records using SQL Server to answer key operational and clinical questions.
+- Visualise real-time KPIs and long-term healthcare trends in Power BI.
 
 ---
 
 ## 🧰 Tools & Technologies
 
-SQL Server
-
-Power BI Desktop
-
-SSMS (SQL Server Management Studio)
-
-CSV patient record datasets
+- SQL Server
+- Power BI Desktop
+- SSMS (SQL Server Management Studio)
+- CSV patient record datasets
 
 ---
 
