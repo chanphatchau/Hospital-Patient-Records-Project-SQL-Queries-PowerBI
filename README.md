@@ -116,11 +116,11 @@ The dataset includes multiple tables such as:
 
   - High-volume procedures: screenings, hospice care, depression & substance assessments.
     
-![Procedures & Costs 1](assets/procedures-and-costs-1.png)
+![Procedures & Costs 1](assets/procedures-and-cost-1.png)
 
   - High-cost procedures: ICU admission (~206K), cardiac surgeries (20–47K), colon resections (~25K).
     
-![Procedures & Costs 2](assets/procedures-and-costs-2.png)
+![Procedures & Costs 2](assets/procedures-and-cost-2.png)
 
   - Insight: Hospital runs on low-cost, high-volume preventive care, but faces spikes from rare, high-cost admissions.
 
