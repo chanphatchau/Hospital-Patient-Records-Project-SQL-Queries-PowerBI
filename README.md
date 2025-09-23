@@ -90,15 +90,15 @@ The dataset includes multiple tables such as:
   
   - Total encounters range between 2,200–3,500 per year, showing stable demand.
     
-![Admissions & Readmissions 1](assets/admissions-and-readmissions-1.png)
+![Admissions & Readmissions 1](assets/admission-and-readmission-1.png)
 
   - Ambulatory & outpatient visits dominate (~70%), while inpatient stays are fewer but costlier.
     
-![Admissions & Readmissions 2](assets/admissions-and-readmissions-2.png)
+![Admissions & Readmissions 2](assets/admission-and-readmission-2.png)
 
   - Readmissions within 30 days occur consistently, indicating opportunities for post-discharge improvement.
     
- ![Admissions & Readmissions 3](assets/admissions-and-readmissions-3.png)
+ ![Admissions & Readmissions 3](assets/aadmission-and-readmission-3.png)
 
 **2. Insurance Coverage**
 
