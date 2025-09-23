@@ -1,5 +1,5 @@
 # 🏥 Hospital Patient Records Analytics – SQL + Power BI Project
-![Cover – Hospital Patient Records Dashboard](assets/dashboard-1.png)
+![Cover – Hospital Patient Records Dashboard](assests/dashboard-1.png)
 
 This project analyses hospital patient records using SQL Server and Power BI. It provides insights into admissions, readmissions, patient demographics, insurance coverage, and procedure costs.
 The project is split into two parts:
