@@ -40,22 +40,23 @@ The dataset includes multiple tables such as:
 ## 📈 Dashboard Pages & Visuals
 
 **1. Admissions & Stay Duration (Power BI)**
-![Admissions & Stay Duration](assets/dashboard-1.png)
 
   - KPIs: Total Admissions, Readmissions (30 days), Avg Stay (inpatient & outpatient)
   - Readmit Rate Trend (12 months)
   - Admissions Long-Term Trend (5/10 years)
   - Avg Stay by Inpatient vs Outpatient
+    
+![Admissions & Stay Duration](assets/dashboard-1.png)
 
 
 **2. Cost & Insurance (Power BI)**
-![Cost & Insurance](assets/dashboard-2.png)
 
   - Avg Cost per Visit: With vs Without Insurance
   - Total Hospital Procedures by Coverage
   - Insurance Coverage Long-Term Trend
   - Cost per Visit Long-Term Trend
 
+![Cost & Insurance](assets/dashboard-2.png)
 ---
 
 ## 🔍 SQL Analysis
