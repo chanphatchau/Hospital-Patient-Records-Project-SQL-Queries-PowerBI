@@ -98,7 +98,7 @@ The dataset includes multiple tables such as:
 
   - Readmissions within 30 days occur consistently, indicating opportunities for post-discharge improvement.
     
- ![Admissions & Readmissions 3](assets/aadmission-and-readmission-3.png)
+ ![Admissions & Readmissions 3](assets/admission-and-readmission-3.png)
 
 **2. Insurance Coverage**
 
